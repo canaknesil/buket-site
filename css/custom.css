@@ -1,0 +1,13 @@
+.bg-secondary {
+  background-color: #684fa3 !important; /* Milka purple */
+}
+
+.bg-primary {
+    /*background-color: #1abc9c !important;*/ /* Default */
+    /*background-color: #98b15d !important;*/ /* Complement of Milka purple */
+    background-color: #98b15d !important;
+}
+
+.footer {
+  background-color: #684fa3 !important;
+}
