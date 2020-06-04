@@ -11,3 +11,11 @@
 .footer {
   background-color: #684fa3 !important;
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
