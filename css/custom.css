@@ -2,14 +2,48 @@
   background-color: #684fa3 !important; /* Milka purple */
 }
 
-.bg-primary {
-    /*background-color: #1abc9c !important;*/ /* Default */
-    /*background-color: #98b15d !important;*/ /* Complement of Milka purple */
-    background-color: #98b15d !important;
+.btn-primary {
+    /*background-color: #1abc9c;*/ /* default */
+    background-color: #808080;
+    border-color: #808080;
 }
 
+.btn-primary:hover {
+    /*background-color: #159a80;*/
+    background-color: #404040;
+    border-color: #404040;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+    color: #a0a0a0;
+}
+
+@media (min-width: 992px) {
+  #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+    color: #fff;
+    background: #a0a0a0;
+  }
+  #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+    color: #fff;
+    background: #a0a0a0;
+  }
+}
+
+.navbar-brand {
+    padding-buttom: 0rem;
+    padding-top: 0rem;
+}
+
+#mainNav {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+
 .footer {
-  background-color: #684fa3 !important;
+    background-color: #684fa3 !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .row {
@@ -43,6 +77,13 @@
     background-color: #fff0f0;
     box-shadow:10px 10px 15px grey;
 }
+
+/* @media (min-width: 992px) { */
+/*     .blog-box { */
+/* 	margin-right: 100px; */
+/* 	margin-left: 100px; */
+/*     } */
+/* } */
 
 .iletisim-formu-box {
     padding-right: 30px;
