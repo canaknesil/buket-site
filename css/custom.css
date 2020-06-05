@@ -34,3 +34,26 @@
       width: 80%;
   }
 }
+
+.blog-box, .iletisim-formu-box {
+    margin-top: 40px;
+    margin-buttom: 40px;
+    padding: 20px;
+    border: grey
+    background-color: #fff0f0;
+    box-shadow:10px 10px 15px grey;
+}
+
+.iletisim-formu-box {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 0px;
+    padding-buttom: 0px;
+}
+
+@media (min-width: 992px) {
+    .yazi {
+	padding-right: 100px;
+	padding-left: 100px;
+    }
+}
