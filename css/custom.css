@@ -19,3 +19,18 @@
   margin-left: 0px;
 }
 
+.py-4 {
+    padding-bottom: 1.0rem !important;
+    padding-top: 1.0rem !important;
+}
+
+#hakkimda-img {
+    width: 50%;
+}
+
+
+@media (min-width: 992px) {
+  #hakkimda-img {
+      width: 80%;
+  }
+}

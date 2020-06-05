@@ -6,7 +6,7 @@ document.write(`
     <!-- Footer Social Icons -->
 
     <div class="row">
-      <div class="column" style="width: 50%;">
+      <div class="column col-lg-6">
         
         <div class="mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-4">Adres</h4>
@@ -14,11 +14,11 @@ document.write(`
         </div>
 
       </div>
-      <div class="column" style="width: 50%;">
+      <div class="column col-lg-6">
 
         <div class="mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-4">Linkler</h4>
-          <a class="lead mb-0" style="font-size:100%; color: white" href="/">Mutlu İnsanlar</a>
+          <a class="lead mb-0" style="font-size:100%; color: white" href="https://www.mutluinsanlar.com/">Mutlu İnsanlar</a>
         </div>
         
       </div>
@@ -79,11 +79,11 @@ document.write(`
 </footer>
 
 <!-- Copyright Section -->
-<!-- <section class="copyright py-4 text-center text-white"> -->
-<!--   <div class="container"> -->
-<!--     <small>Copyright &copy; Your Website 2019</small> -->
-<!--   </div> -->
-<!-- </section> -->
+<section class="copyright py-4 text-center text-white">
+  <div class="container">
+    <small>Copyright &copy; Can Aknesil 2020</small>
+  </div>
+</section>
 
 <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
 <div class="scroll-to-top d-lg-none position-fixed ">
