@@ -10,7 +10,8 @@ document.write(`
         
         <div class="mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-2">Adres</h4>
-          <p class="lead mb-0" style="font-size:90%;">Akat mahallesi, Cebeci caddesi, No: 40, Akatlar<br>Beşiktaş, İstanbul</p>
+          <!-- <p class="lead mb-0" style="font-size:90%;">Akat mahallesi, Cebeci caddesi, No: 40, Akatlar<br>Beşiktaş, İstanbul</p> -->
+          <p class="lead mb-0" style="font-size:90%;">İncirli Caddesi, Başarı Sokak, No:1, A Blok, d:5<br>Bakırköy, İstanbul</p>
         </div>
 
       </div>
@@ -19,7 +20,9 @@ document.write(`
         <div class="mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-2">Linkler</h4>
           <a class="lead mb-0" style="font-size:100%; color: white" href="https://www.mutluinsanlar.com/">Mutlu İnsanlar</a><br>
-          <a class="lead mb-0" style="font-size:100%; color: white" href="http://www.floortimeistanbul.com/index.php">Floortime İstanbul</a>
+          <!-- <a class="lead mb-0" style="font-size:100%; color: white" href="http://www.floortimeistanbul.com/index.php">Floortime İstanbul</a> -->
+          <a class="lead mb-0" style="font-size:100%; color: white" href="https://www.monomente.com/tr/ekip/10/buket-ozensoy-cocuk-ergen-uzman-klinik-psikolog">Monomente Danışmanlık</a>
+          
         </div>
         
       </div>
